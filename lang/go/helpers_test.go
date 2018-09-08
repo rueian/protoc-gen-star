@@ -8,7 +8,7 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/protoc-gen-go/plugin"
-	"github.com/lyft/protoc-gen-star"
+	"github.com/rueian/protoc-gen-star"
 	"github.com/stretchr/testify/require"
 )
 

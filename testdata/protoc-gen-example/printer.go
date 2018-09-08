@@ -7,7 +7,7 @@ import (
 
 	"bytes"
 
-	"github.com/lyft/protoc-gen-star"
+	"github.com/rueian/protoc-gen-star"
 )
 
 type PrinterModule struct {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/lyft/protoc-gen-star"
+	"github.com/rueian/protoc-gen-star"
 )
 
 const (

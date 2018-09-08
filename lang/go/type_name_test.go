@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/lyft/protoc-gen-star"
+	"github.com/rueian/protoc-gen-star"
 
 	"github.com/stretchr/testify/assert"
 )

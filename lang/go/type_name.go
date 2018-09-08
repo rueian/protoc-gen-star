@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/lyft/protoc-gen-star"
+	"github.com/rueian/protoc-gen-star"
 )
 
 func (c context) Type(f pgs.Field) TypeName {

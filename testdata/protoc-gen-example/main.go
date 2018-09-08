@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/lyft/protoc-gen-star"
-	"github.com/lyft/protoc-gen-star/lang/go"
+	"github.com/rueian/protoc-gen-star"
+	"github.com/rueian/protoc-gen-star/lang/go"
 )
 
 func main() {
